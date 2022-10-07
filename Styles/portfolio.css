@@ -4,14 +4,14 @@
     gap: 2.5rem;
 }
 .portfolio_item{
-    background: var(--color-bg-variant);
+    background:#6fb86d;;
     padding: 1.3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transtion);
 }
 .portfolio_item:hover{
-    background-color: var(--color-priamry-variant);
+    background-color: rgba(78, 179, 125, 0.4);
     background: transparent;
 
 }
